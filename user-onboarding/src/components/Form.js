@@ -98,11 +98,6 @@ const Form = () => {
     setFormState(newFormData);
   }
   
-
-
-
-
-
     return (
       <>
         <form onSubmit={formSubmit}>
